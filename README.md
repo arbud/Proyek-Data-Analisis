@@ -13,7 +13,7 @@ pip install pandas numpy matplotlib seaborn streamlit scipy babel
 start streamlit run dashboardbikesharing.py
 
 ## Gambar Deploy Streamlit
-![Dashboard Bike Sharing]('Screenshot (52).png')
+![Dashboard Bike Sharing](`Proyek-Data-Analisis/Screenshot (52).png`)
 
 ## Link Deploy Streamlit
 https://arbud25-bike-sharing.streamlit.app/

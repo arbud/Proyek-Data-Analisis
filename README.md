@@ -10,5 +10,8 @@ pip install pandas numpy matplotlib seaborn streamlit scipy babel
 
 
 ## Menjalankan Aplikasi Streamlit
-start streamlit run dashboard.py
+start streamlit run dashboardbikesharing.py
+
+## Gambar Deploy Streamlit
+![Dashboard Bike Sharing](link_ke_gambar)
 
